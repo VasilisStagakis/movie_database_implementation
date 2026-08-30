@@ -1,0 +1,15 @@
+<ΚΩΝΣΤΑΝΤΙΝΟΣ ΜΑΡΚΟ> - <3190112>
+<ΒΑΣΙΛΕΙΟΣ ΣΤΑΓΑΚΗΣ> - <3150164>
+<ΚΟΥΤΣΟΜΠΙΝΑΣ ΓΕΩΡΓΙΟΣ> - <3150251>
+Endspoint: <project-vaseis-2021.postgres.database.azure.com>
+Username: <examiner@project-vaseis-2021>
+Password: <examiner123>
+Database: <postgres>
+
+
+----------------------------------------------------------------
+
+alternative user:
+
+Username: <vasilis@project-vaseis-2021>
+Password: <project123@>
